@@ -1,0 +1,79 @@
+Constraints1:
+(Eq false
+     (And (Slt 0
+               N0:(ReadLSB w32 0 N))
+          (Sle N0 1000)))
+----------------
+Constraints2:
+(Slt 0
+      (ReadLSB w32 0 N))
+(Sle (ReadLSB w32 0 N)
+      1000)
+(Eq false
+     (Slt 0
+          (SDiv w32 (ReadLSB w32 0 N)
+                    10)))
+(Eq false
+     (Slt 0
+          (SDiv w32 (SRem w32 (ReadLSB w32 0 N)
+                              10)
+                    2)))
+----------------
+Constraints3:
+(Slt 0
+      (ReadLSB w32 0 N))
+(Sle (ReadLSB w32 0 N)
+      1000)
+(Slt 0
+      (SDiv w32 (ReadLSB w32 0 N)
+                10))
+(Eq false
+     (Slt 0
+          (SDiv w32 (SDiv w32 (ReadLSB w32 0 N)
+                              10)
+                    10)))
+(Eq false
+     (Slt 0
+          (SDiv w32 (Add w32 (SRem w32 N0:(ReadLSB w32 0 N)
+                                       10)
+                             (SRem w32 (SDiv w32 N0 10) 10))
+                    2)))
+----------------
+Constraints4:
+(Slt 0
+      (ReadLSB w32 0 N))
+(Sle (ReadLSB w32 0 N)
+      1000)
+(Eq false
+     (Slt 0
+          (SDiv w32 (ReadLSB w32 0 N)
+                    10)))
+(Slt 0
+      (SDiv w32 (SRem w32 (ReadLSB w32 0 N)
+                          10)
+                2))
+(Eq false
+     (Slt 0
+          (SDiv w32 (SDiv w32 (SRem w32 (ReadLSB w32 0 N)
+                                        10)
+                              2)
+                    2)))
+----------------
+Constraints5:
+(Slt 0
+      (ReadLSB w32 0 N))
+(Sle (ReadLSB w32 0 N)
+      1000)
+(Slt 0
+      (SDiv w32 (ReadLSB w32 0 N)
+                10))
+(Slt 0
+      (SDiv w32 (SDiv w32 (ReadLSB w32 0 N)
+                          10)
+                10))
+(Slt 0
+      (SDiv w32 (SDiv w32 (SDiv w32 (ReadLSB w32 0 N)
+                                    10)
+                          10)
+                10))
+----------------

@@ -10,12 +10,6 @@
  * 保证C++代码能够正常运行，并且请将判断结果部分换成使用assert函数
  */
 
-/**
- *  Given a positive integer n, return the count of the numbers of n-digit
-    positive integers that start or end with 1.
- * @param n
- * @return
- */
 int starts_one_ends(int n) {
     assert(n > 0 && "invalid inputs"); // Check if n is a positive integer
     if (n == 1) {

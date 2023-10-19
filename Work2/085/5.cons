@@ -1,0 +1,51 @@
+Constraints1:
+(Eq false
+     (Sle 0
+          (ReadLSB w32 0 size)))
+----------------
+Constraints2:
+(Sle 0
+      (ReadLSB w32 0 size))
+(Eq false
+     (Slt 0
+          (ReadLSB w32 0 size)))
+----------------
+Constraints3:
+(Sle 0
+      (ReadLSB w32 0 size))
+(Slt 0
+      (ReadLSB w32 0 size))
+(Eq false
+     (Sle 0
+          (ReadLSB w32 0 x0)))
+(Eq false
+     (Slt 1
+          (ReadLSB w32 0 size)))
+----------------
+Constraints4:
+(Sle 0
+      (ReadLSB w32 0 size))
+(Slt 0
+      (ReadLSB w32 0 size))
+(Sle 0
+      (ReadLSB w32 0 x0))
+(Slt (ReadLSB w32 0 x0)
+      4)
+(Eq false
+     (Slt 1
+          (ReadLSB w32 0 size)))
+----------------
+Constraints5:
+(Sle 0
+      (ReadLSB w32 0 size))
+(Slt 0
+      (ReadLSB w32 0 size))
+(Sle 0
+      (ReadLSB w32 0 x0))
+(Eq false
+     (Slt (ReadLSB w32 0 x0)
+          4))
+(Eq false
+     (Slt 1
+          (ReadLSB w32 0 size)))
+----------------

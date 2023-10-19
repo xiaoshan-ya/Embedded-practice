@@ -1,0 +1,14 @@
+Constraints1:
+(Eq false
+     (And (Slt 0
+               N0:(ReadLSB w32 0 n))
+          (Slt N0 20)))
+----------------
+Constraints2:
+(Eq 1
+     (ReadLSB w32 0 n))
+----------------
+Constraints3:
+(Eq 3
+     (ReadLSB w32 0 n))
+----------------
