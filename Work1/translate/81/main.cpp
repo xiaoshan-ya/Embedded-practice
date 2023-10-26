@@ -10,6 +10,34 @@
  * 2. 请将上面这段代码按照每一行的语义，完整地转换为C+＋的代码，要求逐行转换，并且保证实现功能不变，
  * 保证C++代码能够正常运行，并且请将判断结果部分换成使用assert函数
  */
+
+/*
+ *     """It is the last week of the semester and the teacher has to give the grades
+    to students. The teacher has been making her own algorithm for grading.
+    The only problem is, she has lost the code she used for grading.
+    She has given you a list of GPAs for some students and you have to write
+    a function that can output a list of letter grades using the following table:
+             GPA       |    Letter grade
+              4.0                A+
+            > 3.7                A
+            > 3.3                A-
+            > 3.0                B+
+            > 2.7                B
+            > 2.3                B-
+            > 2.0                C+
+            > 1.7                C
+            > 1.3                C-
+            > 1.0                D+
+            > 0.7                D
+            > 0.0                D-
+              0.0                E
+
+
+    Example:
+    grade_equation([4.0, 3, 1.7, 2, 3.5]) ==> ['A+', 'B', 'C-', 'C', 'A-']
+    """
+ * */
+
 std::vector<std::string> numerical_letter_grade(std::vector<double> grades) {
     assert(std::all_of(grades.begin(), grades.end(), [](double x) { return x >= 0.0 && x <= 4.0; }));
 

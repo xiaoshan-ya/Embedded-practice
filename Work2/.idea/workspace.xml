@@ -19,54 +19,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f09a429d-55e3-4bfd-8ae0-00a107d4ff5f" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/实践二.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/081/081.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/081/1.cons" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/081/屏幕截图 2023-10-19 162735.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/081/屏幕截图 2023-10-19 162802.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/081/屏幕截图 2023-10-19 162825.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/082/082.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/082/2.cons" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/082/屏幕截图 2023-10-19 173611.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/082/屏幕截图 2023-10-19 173624.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/083/083.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/083/3.cons" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/083/屏幕截图 2023-10-19 175605.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/083/屏幕截图 2023-10-19 175612.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/083/屏幕截图 2023-10-19 175618.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/084/084.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/084/4.cons" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/084/屏幕截图 2023-10-19 195340.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/084/屏幕截图 2023-10-19 201106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/084/屏幕截图 2023-10-19 201112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/085.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/085/085.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/085/5.cons" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/085/屏幕截图 2023-10-19 202103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/085/屏幕截图 2023-10-19 203509.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug-visual-studio/.cmake/api/v1/query/cache-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug-visual-studio/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug-visual-studio/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug-visual-studio/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug-visual-studio/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug-visual-studio/CMakeFiles/clion-Debug-Visual Studio-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug-visual-studio/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug-visual-studio/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/81/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/81/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/83/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/83/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/84/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/84/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/85/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/85/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/081_numerical_letter_grade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/082_prime_length.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/083_starts_one_ends.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/084_solve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/085_add.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.idea/translate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.vs/ProjectSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.vs/translate/FileContentIndex/53dc7748-f656-4f82-b9fc-14d1576f5192.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.vs/translate/FileContentIndex/read.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.vs/translate/v17/.wsuo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.vs/translate/v17/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/.vs/translate/v17/ipch/AutoPCH/19bd0dbe39a86570/MAIN.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/81/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/82/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/83/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/84/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/85/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/reply/cache-v2-c7033732ed738ec209b1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-5172cad42c2a39207bf9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-cdbc01beae681ee2777e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/reply/index-2023-10-18T07-03-12-0249.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-922ee3cdac2bc25a0627.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/main.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/main.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../实践一/Python代码用例集/translate/main.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,26 +105,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/D/Embedded Practice/Work2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/D/Embedded Practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C/C++ 文件.085.cpp">
     <configuration name="081.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Work2" TARGET_NAME="081.cpp" CONFIG_NAME="081.cpp">
       <option name="sourceFile" value="081\081.cpp" />
@@ -179,6 +188,7 @@
       <workItem from="1697702251757" duration="3156000" />
       <workItem from="1697705921618" duration="7622000" />
       <workItem from="1697719037621" duration="402000" />
+      <workItem from="1698199608277" duration="973000" />
     </task>
     <servers />
   </component>
